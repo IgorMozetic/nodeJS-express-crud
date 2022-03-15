@@ -2,7 +2,7 @@
 
 ### API with crud of soccer players
 
-For now the api is still using memory as data save, but I will create another API that will be integrated with MongoDB and an API that the data will be saved in LocalStorage.
+For now the api is still using memory as data save, but I will create another API that will be integrated with MongoDB.
 
 ### CRUD
 <ul>
