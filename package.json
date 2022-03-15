@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-crud",
+  "version": "1.0.0",
+  "description": "API to make soccer players crud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorMozetic/nodeJS-express-crud.git"
+  },
+  "author": "Igor Mozetic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorMozetic/nodeJS-express-crud/issues"
+  },
+  "homepage": "https://github.com/IgorMozetic/nodeJS-express-crud#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
